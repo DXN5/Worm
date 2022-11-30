@@ -1,0 +1,29 @@
+.score{
+   position: absolute;
+   left: 100%;
+   top: -18%;
+   width: 150px;
+   height: 80px;
+   background-color: rgb(211, 211, 211);
+   border: 5px solid rgb(0, 0, 0);
+   box-shadow: 25px 25px 30px 7.5px rgb(0, 0, 0);
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 65px;
+   color: black;
+   text-align: center;   
+}
+
+.speed {
+   position: absolute;
+   top: -1%;
+   left: 100%;
+   width: 150px;
+   height: 60px; 
+   background-color: rgb(211, 211, 211);
+   border: 5px solid rgb(0, 0, 0);
+   box-shadow: 25px 25px 30px 7.5px rgb(0, 0, 0);
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-size: 55px;
+   color: black;
+   text-align: center; 
+}

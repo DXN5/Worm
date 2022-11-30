@@ -1,0 +1,10 @@
+.fruit {
+    position: absolute;
+    height: 18px;
+    width: 18px;
+    top: 0px;
+    left: 0px;
+    border: 1px solid rgb(211, 211, 211);
+    background-color: rgb(145, 0, 0);
+   /* box-shadow: 3px 3px 3px 3px rgb(0, 0, 0);*/
+}

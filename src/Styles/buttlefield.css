@@ -1,0 +1,26 @@
+.battlefield {
+    position: relative;
+    margin-top: 8%;
+    margin-left: 10%;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(211, 211, 211);
+    border: 5px solid rgb(0, 0, 0);
+    box-shadow: 25px 25px 30px 7.5px rgb(0, 0, 0);
+    color: red;
+    font: 20px sans-serif;
+}
+
+.gameover {
+    margin-top: 3.2%;
+    margin-left: 0%;
+    padding-top: 195px;
+    position: relative;
+    width: 500px;
+    height: 305px;
+    font:  bold 67px  Georgia, Times, 'Times New Roman', serif; 
+    text-align: center;  
+    background-color: rgb(211, 211, 211);
+    color: rgb(0, 0, 0);
+   /* opacity: 10%;*/
+}
